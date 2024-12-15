@@ -1,4 +1,4 @@
-I am currently a Ph.D. candidate in the Minus Lab at Northeastern University. I primarily focus on multiscale simulations for polymer nanocomposites, with specific attention on the two ends, molecular dynamics and finite elements. My work seeks to map to experimental data as closely as possible, so that we can better understand the structure-property-processing relationships occuring in our materials.
+I am currently a Ph.D. graduand of the Minus Lab at Northeastern University. I primarily focus on multiscale simulations for polymer nanocomposites, with specific attention on the two ends, molecular dynamics and finite elements. My work seeks to map to experimental data as closely as possible, so that we can better understand the structure-property-processing relationships occuring in our materials.
 
 Here you can find a lot of the tools I have developed / am developing for things like lammps, abaqus, and python.
 
